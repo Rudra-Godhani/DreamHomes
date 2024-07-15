@@ -69,7 +69,8 @@ const LoginPage = () => {
             />
             <button type="submit">LOG IN</button>
           </form>
-          <a href="/register">Don't have an account? Sign In Here</a>
+          <a href="/forgotPassword" className="forgot-password">Forgot Password?</a>
+          <a href="/register">Don't have an account? Sign Up Here</a>
           <div className='demo_login'>
             <h3>Sample Login Details:</h3>
             <p>Email: smit@gmail.com</p>
