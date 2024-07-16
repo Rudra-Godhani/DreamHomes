@@ -2,7 +2,9 @@
 
 ### live: https://dream-homes-one.vercel.app
 
-![StartMovies](https://github.com/Rudra-Godhani/StarMovies/assets/139685113/bf8d002c-74f2-4b02-97ba-c993bf7d19a2)
+![DreamHomes1](https://github.com/user-attachments/assets/5a869bf6-404c-4ebf-b7a1-1499fdef4cf4)
+![DreamHomes2](https://github.com/user-attachments/assets/ca4b7197-74fc-41df-ba4c-a20a02c32ed4)
+![DreamHomes3](https://github.com/user-attachments/assets/7a564b4c-72e4-4556-8f3f-e64123b670c9)
 
 # Getting Started with Create React App
 
